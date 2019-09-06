@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7A34-C5F5
+
+ Directory of C:\Badal_git
+
+09/05/2019  07:14 PM    <DIR>          .
+09/05/2019  07:14 PM    <DIR>          ..
+09/05/2019  07:14 PM                 0 badal.txt
+09/05/2019  07:02 PM                 3 badol.txt
+09/05/2019  12:39 PM             1,209 collection_git
+09/05/2019  02:12 PM             2,555 git -get.postman_collection.json
+               4 File(s)          3,767 bytes
+               2 Dir(s)  467,971,555,328 bytes free
